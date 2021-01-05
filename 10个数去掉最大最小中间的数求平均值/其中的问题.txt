@@ -1,0 +1,7 @@
+[Error] too many arguments to function 'int min(int*)'
+将z=max(b,10);
+x=min(b,10);改为z=max(b);
+x=min(b);
+函数，数组调用时可以a（b，9）
+可以a（9）
+最好在函数中不要写数组的个数
